@@ -1,0 +1,36 @@
+body {
+    background-color: #7c7272;
+    
+    text-align: center;
+    
+}
+
+ul {
+  list-style-type: square; 
+}
+
+nav {
+  display: block;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #333333;
+  line-height: 1.5;
+  width:auto;
+  
+}
+
+h1 {
+    
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+  color: #201a1a;
+  line-height: 1.5;
+
+
+}
+.navagtion {
+    background-color: #761313;
+}
